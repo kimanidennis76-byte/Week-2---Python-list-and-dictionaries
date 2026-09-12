@@ -15,4 +15,4 @@ to store, organize, access, modify, and process collections of data.
 
 A particular focus was placed on lists, dictionaries, and combinations of the two to represent structured information.
 
-Finally I built a contact book stores names, phone numbers, and emails and runs as a fully interactive terminal application
+Finally I built a contact book that stores names, phone numbers, and emails and runs as a fully interactive terminal application
